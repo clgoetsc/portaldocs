@@ -187,3 +187,6 @@ Developers can use the following information to get started implementing this pa
 * Context Pane [top-extensions-context-panes.md](top-extensions-context-panes.md)
 * Forms [top-extensions-forms.md](top-extensions-forms.md)
 * Forms [portalfx-forms.md](portalfx-forms.md)
+
+
+Testing permissions. Claire's change
