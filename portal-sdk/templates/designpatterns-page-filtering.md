@@ -7,7 +7,7 @@ Filtering enables users to quickly winnow down a list to the result set they are
 
 # Context
 <!-- Short description of the context.  For example, "Users input information when managing Azure resources." -->
-Azure shows lists of resources and graphical representations of data that must allow the users to focus on a subset of information
+Azure shows lists of resources and graphical representations of data that must allow the user to focus on a subset of information.
 
 # Problem
 <!-- Short description of the problem.  For example, 
@@ -59,13 +59,12 @@ Activity log
 
 ### Time range filtering
 
-
-Time range filtering - full set of options
+If your user would benefit from increased filtering functionality, you can inciude additional time range values and add specify the time zone.
 <div style="max-width:800px">
 <img alttext="Full time range" src="../media/designpatterns-page-filtering/filter-time-range-1.PNG"  />
 </div>
 
-Time range filtering - fewer options
+If additional options won't add value to the user scenario, you can keep it clean and simple.
 <div style="max-width:800px">
 <img alttext="Time range" src="../media/designpatterns-page-filtering/filter-time-range-2.PNG"  />
 </div>
